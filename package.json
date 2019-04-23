@@ -1,0 +1,11 @@
+{
+  "name": "webpack-spread-issue-minimal-repro",
+  "main": "index.js",
+  "author": "Mike Lewis <mtlewis@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.1"
+  }
+}
